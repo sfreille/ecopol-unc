@@ -1,0 +1,109 @@
+---
+title: "Guía Practica"
+subtitle: "Economia Politica"
+author: "Universidad Nacional de Cordoba. FCE"
+format: pdf
+editor: visual
+---
+
+\newpage
+
+## Presentacion
+
+\newpage
+
+# Indice
+
+-   [Unidad 1](#1)
+
+-   [Unidad 2](#2)
+
+    - [Sistemas de Votación](#2_1)
+    - [Modelo de Meltzer & Richard](#2_2)
+    - [Pico Único y Cruce Único](#2_3)
+
+-   [Unidad 3](#3)
+
+    - [Modelo simple de no democracia](#3_1)
+    - [Modelo Democratización](#3_2)
+    
+
+-   [Unidad 4](#4)
+
+\newpage
+
+# Unidad 1 {#1}
+
+\newpage
+
+# Unidad 2 {#2}
+
+## Sistemas de Votación {#2_1}
+
+1)  Suponga que existen 5 grupos de individuos con los siguientes ordenamientos de preferencias sobre 5 alternativas
+
+-   Preferencias
+    -   (21 personas) $C>A>E>B>D$
+    -   (15 personas) $B>D>A>C>E$
+    -   (12 personas) $A>B>E>D>C$
+    -   (8 personas) \ $D>C>E>A>B$
+    -   (4 personas) \ $E>A>D>B>C$
+
+Responda que alternativa resulta ganadora bajo los siguientes métodos de votación colectiva:
+
+a)  Pluralidad
+b)  Mayoría Absoluta
+c)  Votación de Condorcet
+d)  Método Borda (criterio de n-1)
+
+\
+
+2)  Una elección acerca del siguiente ganador del Balón de Oro en octubre del 2024 debe ser decidida a través del método Borda. A la recta final llegaron 5 candidatos (A, B, C, D y E) y hay 45 votantes entre los cuales se encuentran grandes eminencias del deporte.
+
+Si el jugador A obtiene 136 puntos, el jugador B obtiene 129 puntos, el C obtiene 148. el D obtiene 118 y E obtiene **?**.
+
+¿Qué criterio se utiliza, "n" o "n-1"? ¿Qué candidato será el ganador del premio? ¿Cuántos votos obtuvo E?
+
+\
+
+3)  Condorcet: Se realizó una votación entre expertos del mundo del tenis para determinar quién fue el mejor tenista del "Big Four" al que componen Murray (M), Federer (F), Nadal (N) y Djokovic (D). Las preferencias de lo expertos son las siguientes:
+
+-   (23 personas) $F>D>N>M$
+-   (31 personas) $D>N>F>M$
+-   (27 personas) $N>F>D>M$
+
+## Modelo de Meltzer & Richard {#2_2}
+
+4)  Suponga una sociedad conformada por $n_{p}=530$ individuos pobre y $n_{r}=123$ individuos ricos y que éstos tienen un ingreso de $y_{p}=112$ y de $y_{r}=150$, respectivamente. A partir de aquí suponga un impuesto a las ganancias del $9\%$. Con esta información, responda:
+    i)  ¿Cuál es el ingreso directo de los pobres?
+    ii) Si se somete a votación por mayoría absoluta una nueva alícuota del $12\%$ ¿Qué sucedería?
+    iii) ¿Existe desigualdad? ¿Por qué?
+    
+    
+## Pico Único y Cruce Único {#2_3}
+
+5) De acuerdo a los siguiente gráficos de preferencias politicas determine:
+
+a) ¿Son preferencias de pico único?
+b) ¿Son preferencias de Cruce único?
+
+![Preferencias](C:/Users\Admin\Documents\GitHub\econ-pol\cursado\filminas\2024\práctico\practico_12-9\Imágenes\Cruce_Único.png)
+
+\newpage
+
+# Unidad 3 {#3}
+
+## Modelo simple de no democracia {#3_1}
+
+6)  En 1810, la élite española concentraba el 80% de la riqueza del Virreinato del Río de la Plata. Los criollos lograron organizarse, por lo que su poder para la revolución es alto (Estado de la Naturaleza H). La guerra revolucionaria y el costo en vidas asociado a ella destruiría el 30% de los recursos disponibles.
+Determine cual es la resolución de este juego.
+
+
+## Modelo Democratización {#3_2}
+
+7)  En 1992, la élite afrikaaner representaba el 21% de la población y concentraba el 90% de los recursos de Sudáfrica. El African National Congress (ANC) logró, luego de mucho tiempo, organizarse de la mano de Nelson Mandela y reunir el poder de facto necesario para la revolución (Estado de la Naturaleza H). La revolución sería catastrófica: destruiría el 50% de la riqueza. El umbral para la redistribución, de acuerdo con lo que está dispuesta a ceder la élite, es de 0.7, mientras que el umbral para la democratización es de 0.3.
+Determine cual es la resolución de este juego.
+
+\newpage
+
+# Unidad 4 {#4}
