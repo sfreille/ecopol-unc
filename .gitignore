@@ -1,0 +1,21 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Quarto
+*_files/
+*_cache/
+.quarto/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*~
+#*#
+
+# Temporary files
+*.tmp
+*.bak
+
