@@ -40,7 +40,7 @@ editor: visual
 
 ## Sistemas de Votación {#2_1}
 
-1)  Suponga que existen 5 grupos de individuos con los siguientes ordenamientos de preferencias sobre 5 alternativas
+1.1)  Suponga que existen 5 grupos de individuos con los siguientes ordenamientos de preferencias sobre 5 alternativas
 
 -   Preferencias
     -   (21 personas) $C>A>E>B>D$
@@ -55,6 +55,34 @@ a)  Pluralidad
 b)  Mayoría Absoluta
 c)  Votación de Condorcet
 d)  Método Borda (criterio de n-1)
+
+Respuestas:
+
+a) C
+b) No hay ganador
+c) A
+d) A
+
+1.2)  Suponga que existen 3 grupos de individuos con los siguientes ordenamientos de preferencias sobre 5 alternativas
+
+-   Preferencias
+    -   (20 personas) $A>C>D>B>E$
+    -   (13 personas) $C>E>A>D>B$
+    -   (11 personas) $E>B>D>A>C$
+
+Responda que alternativa resulta ganadora bajo los siguientes métodos de votación colectiva:
+
+a)  Pluralidad
+b)  Mayoría Absoluta
+c)  Votación de Condorcet
+d)  Método Borda (criterio de n)
+
+Respuestas:
+
+a) A
+b) No hay ganador
+c) No hay ganador de Condorcet
+d) A
 
 \
 
