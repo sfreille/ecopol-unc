@@ -1,0 +1,553 @@
+---
+title: Preguntero
+author: Economía Política - División Freille
+format: pdf
+editor: visual
+---
+
+# Multiple Choice
+
+1.  **Cuál de la/s siguiente/s es FALSA:**
+
+    a.  cuando no hay heterogeneidad en preferencias, el problema se reduce a un problema técnico;
+    b.  cuando hay heterogeneidad en preferencias exante, el problema se reduce a como se ponderan las utilidades individuales;
+    c.  cuando hay heterogeneidad en preferencias expost, el problema se reduce a como se ponderan las utilidad individuales;
+    d.  cuando hay heterogeneidad en preferencias expost, el problema se reduce tanto a como se ponderan las utilidades individuales y a como se distribuyen las participaciones en las cantidades consumidas;
+    e.  ninguna de las anteriores
+
+2.  **Sea** $V_{m}(q)$ las preferencias del votante mediano, en el modelo de competencia electoral downsiano la probabilidad de que el votante mediano vote por el partido A será:
+
+    a.  igual a 0 si $V_{m}(q_{A}) > V_{m}(q_{B})$
+    b.  igual a 0 si $V_{m}(q_{A}) < V_{m}(q_{B})$
+    c.  igual a 1 si $V_{m}(q_{A}) < V_{m}(q_{B})$
+    d.  igual a 1/2 si $V_{m}(q_{A}) > V_{m}(q_{B})$
+    e.  igual a 1 si $V_{m}(q_{A}) > V_{m}(q_{B})$
+    f.  las alternativas $b$ y $d$ son correctas
+    g.  las alternativas $b$ y $c$ son correctas
+    h.  las alternativas $b$ y $e$ son correctas
+    i.  las alternativas $c$ y $e$ son correctas
+    j.  ninguna es correcta
+
+3.  **En el modelo básico de medios y políticas \[Stromberg (2001)\], cuál de las siguientes es FALSA:**
+
+    a.  redistribución es mayor para programas de gasto que son intensivamente cubiertos por los medios
+    b.  mientras más informados los contribuyentes, menores serán las rentas para el político
+    c.  una mayor provisión de noticias por parte de los medios está asociado inequivocamente a mayores impuestos
+    d.  el nivel de rentas políticas en un modelo con medios será siempre mayor que con un planificador social benevolente
+    e.  el gsato en equilibrio del programa es creciente en el número de gente informada
+    f.  ninguna es correcta
+
+4.  **En el marco de la discusión de lobbies y competencia electoral, cuál de los siguientes es VERDADERA:**
+
+    a.  en el caso de políticas particularistas, las contribuciones son sólo función de la política del candidato que favorece a ese GIS, $C_{i}=f(q_{a})$
+    b.  en el caso de políticas colectivas, las contribuciones son sólo función de la política del candidato que favorece a ese GIS, $C_{i}=f(q_{a})$
+    c.  la probabilidad de ganar es menor para el partido alineado con el GIS que más valua las políticas particularistas
+    d.  si existe financiamiento público, resultará en políticas particularistas más alejadas del mediano
+    e.  si la proporción de votantes no informados aumenta, las políticas de equilibrio divergen
+    f.  las alternativas $a$ y $c$ son correctas
+    g.  las alternativas $b$ y $e$ son correctas
+    h.  las alternativas $a$ y $e$ son correctas
+    i.  las alternativas $a$, $d$ y $e$ son correctas
+
+5.  **Una elección debe ser decidida en base al método de la cuenta de Borda. Hay 5 (cinco) candidatas -A, B, C, D y E- y 40 (cuarenta) votantes. Si el candidato A obtiene 139 puntos, el candidato B obtiene 121 puntos, el candidato C obtiente 80 puntos, y el candidato D obtiene 113 puntos, quién será el ganador de la elección:**
+
+    a.  A
+    b.  B
+    c.  C
+    d.  D
+    e.  E
+    f.  Hay un empate entre A y E
+    g.  No puede saberse con certeza con la información suministrada
+
+6.  **En el modelo de democratización de Acemoglu y Robinson si** $\theta > \mu$, entonces
+
+    a.  En estado $S=L$, puede haber revolución
+    b.  En estado $S=H$, nunca hay revolución
+    c.  En estado $S=H$, sólo hay revolución cuando la misma es excesivamente costosa ($\mu$ alto)
+    d.  En estado $S=L$, sólo hay revolución cuando la misma es relativamente barata ($\mu$ bajo)
+    e.  En estado $S=H$, sólo hay revolución cuando la misma es relativamente barata ($\mu$ bajo).
+    f.  Ninguna es correcta
+
+7.  **En el paper de Olken and Barron (2009) sobre peajes en rutas de Indonesia, cuál/es eran VERDADERAS**
+
+    a.  Las coimas pagadas representan, en relación al costo total del viaje, menos que el salario de los conductores
+    b.  Mientras más agentes en los puestos de peaje, menores las coimas pagadas
+    c.  El monto de la coima solía ser mayor mientras más cerca del final del trayecto se encontraba el peaje
+    d.  Los camiones con mayor peso y mayor valor de mecadería tendían a pagar menos coimas
+    e.  Los puestos de peaje que tenían agentes con armas tendían a evidenciar mayores coimas
+    f.  Ninguna es correcta
+
+8.  **En el modelo básico de medios y políticas \[Stromberg (2001)\], cuál de las siguientes es FALSA:**
+
+    a.  redistribución es mayor para programas de gasto que son intensivamente cubiertos por los medios
+    b.  mientras más informados los contribuyentes, menores serán las rentas para el político
+    c.  una mayor provisión de noticias por parte de los medios está asociado inequivocamente a mayores impuestos
+    d.  el nivel de rentas políticas en un modelo con medios será siempre mayor que con un planificador social benevolente
+    e.  el gsato en equilibrio del programa es creciente en el número de gente informada
+    f.  ninguna es correcta
+
+9.  **Dados 6 grupos de individuos con los siguientes ordenamientos de preferencias sobre 5 alternativas:** G1 (18 personas) A \> D \> E \> C \> B G2 (12 personas) B \> E \> D \> C \> A G3 (10 personas) C \> B \> E \> D \> A G4 (9 personas) D \> C \> E \> B \> A G5 (4 personas) E \> B \> D \> C \> A G6 (2 personas) E \> C \> D \> B \> A ¿Cuál será la ganadora por el método de Condorcet?
+
+    a.  A
+    b.  B
+    c.  C
+    d.  D
+    e.  E
+    f.  No hay ganador de Condorcet
+    g.  No puede saberse con certeza con la información suministrada
+
+10. **Hay 33 votantes que tienen que elegir una alternativa usando la cuenta de Borda (método n=1) con las siguientes preferencias. Si todos siguen sus preferencias, gana C. ¿Cuántos de los 7 votantes cuya favorita es A deberían cambiar sus órdenes de preferencia para que B resulte ganadora?**
+
+    | 7   | 13  | 10  | 3   |
+    |-----|-----|-----|-----|
+    | A   | B   | C   | C   |
+    | C   | C   | A   | B   |
+    | B   | A   | B   | A   |
+
+    a.  Al menos 2
+    b.  Al menos 4
+    c.  Todos los 7
+    d.  No importa cuántos cambien, C seguirá ganando
+
+11. **Sean 6 partidos en una eleccion que obtienen las siguientes proporciones de votos: \[0.47; 0.25; 0.08; 0.08; 0.08; 0.04\]. El numero efectivo de partidos para esta elección será: \[NOTA: Trabaje a 2 (dos) decimales sin redondear\]**
+
+    a.  3.53
+    b.  3.15
+    c.  3.28
+    d.  3.00
+    e.  4.53
+    f.  No puede saberse con la información suministrada
+
+12. **¿Cuál de las siguientes NO SON preferencias de pico único?**
+
+    a.  $x \succ y \succ z \succ w$
+    b.  $z \succ y \succ x \succ w$
+    c.  $w \succ z \succ y \succ x$
+    d.  $w \succ x \succ y \succ z$
+    e.  $w \succ y \succ x \succ z$
+    f.  $y \succ z \succ x \succ w$
+    g.  $y \succ x \succ w \succ z$
+
+# Verdadero y falso
+
+1.  [ ] En casos de corrupción con robo, el precio bruto cobrado al consumidor es siempre mayor que el que regiría en casos de corrupción sin robo
+2.  [ ] El número de coaliciones de mayoría ganadoras posibles es inversamente proporcional a la distancia existente entre la posición mediana y la posición rival
+3.  [ ] En el modelo de no democracia de Acemoglu y Robinson, si THETA es mayor a MU, entonces en todos los escenarios posibles no habrá nunca revolución
+4.  [ ] El *payoff* de saquear una economía es mayor que el de extraer recursos democráticamente tanto a corto como largo plazo
+5.  [ ] Según el modelo de Baron mientras mayor sea la proporción de votantes no informados, $k$, mayor será la tendencia centrífuga en posiciones/anuncios de política
+6.  [ ] En el modelo de medios y política el nivel de rentas políticas endógenas es siempre mayor al que rige con un planificador social benevolente
+7.  [ ] Las instituciones políticas determinan la distribución del poder *de facto*
+8.  [ ] El *payoff* de saquear una economía es mayor que el de extraer recursos democráticamente tanto a corto como largo plazo
+9.  [ ] Los sistemas con distritos uninominales tienden a ser bipartidistas y suelen tener sistemas de votación por mayoría
+10. [ ] Si todas las preferencias de un conjunto de 3 (tres) individuos son de pico único, necesariamente también serán de cruce único
+11. [ ] Si las preferencias de un conjunto de individuos no satisfacen ni la condición de pico único ni la de cruce único, entonces no existirá nunca ganador de Condorcet
+12. [ ] En el modelo más simple de redistribución (Meltzer & Richard) la alícuota de equilibrio preferida por el votante mediano será igual a 1
+
+# Ejercicios
+
+1.  \[12.5 pts\] Un total 19 electores votan por 5 candidatos con la siguiente tabla de preferencias
+
+| \# votos | 9   | 6   | 4   |
+|----------|-----|-----|-----|
+| 1er ord  | B   | D   | C   |
+| 2do ord  | E   | C   | B   |
+| 3er ord  | A   | A   | E   |
+| 4to ord  | C   | B   | D   |
+| 5to ord  | D   | E   | A   |
+
+-   Se le pide:
+    1.  ¿Cuál, si existiera, ganaría bajo pluralidad?
+    2.  ¿Cuál, si existiera, ganaría bajo regla de Borda?
+    3.  ¿Cuál, si existiera, ganaría bajo metódo de mayoría con votaciones de a pares?
+    4.  Suponga ahora que la anterior elección es declarada fraudulenta. Como consecuencia de esto, el candidato D se baja de la elección. Se hace una nueva elección con las mismas preferencias de la tabla anterior pero ahora con sólo 4 alternativas. Responda a los incisos (a), (b) y (c) de nuevo.
+
+2.  \[5 pts\] La suma de todos los puntajes de Borda en una elección es 45+56+52+27=180. Explique por qué la suma de todos los puntajes de Borda es igual a 180 en *cualquier* elección que involucre 18 votantes y 4 cuatro candidatos independientemente de los perfiles de preferencias. ¿Cuál sería la suma de los puntajes de Borda en una elección involucrando 20 votantes y 3 candidatos? Explique, ilustre y fundamente en ambas respuestas.
+
+3.  \[5 pts\] Suponga los siguientes perfiles de preferencias y que la elección debe ser resuelta por la cuenta de Borda con la convención de que los empates son resueltos *alfabéticamente*. Además suponga que uno de los dos votantes cuyo ranking es $B \succ A \succ C$ vota deshonestamente $A \succ B \succ C$. Se le pide que **muestre** que esto cambiará el resultado de la elección en una manera que el votante deshonesto prefiere
+
+| **3** | **2** | **3** |
+|-------|-------|-------|
+| C     | B     | A     |
+| B     | A     | C     |
+| A     | C     | B     |
+
+4.  \[10 pts\] Hay 2 (dos) agentes $\alpha_{i}$ y $\alpha_{j}$ y cuatro alternativas de política $q_1 < q_2 < q_3 < q_4$. Las preferencias de los votantes son\> \begin{align}
+    \alpha_{i}: q_2 \succ q_3 \succ q_4 \succ q_1 \\
+    \alpha_{j}: q_3 \succ q_2 \succ q_1 \succ q_4
+    \end{align}
+
+donde $\succ$ significa "es preferido a". Se le pide:
+
+a)  Dibuje las curvas de utilidad para ambos agentes
+b)  Muestre que ambas tienen preferencias de pico único
+c)  Suponga que $\alpha_{i} < \alpha_{j}$. Muestre que las preferencias violan la propiedad de cruce único \[NOTA: Compare el ranking de $q_1$ y $q_4$\]
+d)  Suponga ahora que $\alpha_{j} < \alpha_{i}$. Muestra que aún así existe una violación de la propiedad de cruce único
+
+<!-- -->
+
+5.  \[7 pts\] En la premiación de los Oscars, hay 3 (tres) nominadas a mejor actor: Arthur Andrews (A), Bob Brown (B) y Clive Carter (C). La tabla de preferencias es:
+
+| **123** | **101** | **442** | **212** | **315** |
+|:-------:|:-------:|:-------:|:-------:|:-------:|
+|    A    |    A    |    B    |    C    |    C    |
+|    B    |    C    |    A    |    A    |    B    |
+|    C    |    B    |    C    |    B    |    A    |
+
+Se le pide:
+
+a)  ¿Cuántos actores votaron? ¿Cuántos votos de primera preferencia recibió cada nominado?
+b)  ¿Quién, si existe, ganaría bajo pluralidad?
+c)  ¿Quién, si existe, ganaría bajo mayoría?
+d)  ¿Existe ganador de Condorcet? ¿Cuál es?
+
+# Ensayos
+
+1.  *La muerte del teorema del votante mediano: Cuando las elecciones son decididas por el surgimiento de aquellos que habitualmente no votan, muchos de los supuestos del teorema del votante mediano pierden sentido*, escribió Jon Fraenken, profesor de política comparada al analizar las dos últimas elecciones presidenciales en EEUU. Explique, justifique y argumente si (y porqué) está de acuerdo con el enunciado. Argumente qué otro modelo de competencia electoral podría tratar mejor los problemas que menciona el autor.
+
+2.  En una situación en que se parte de no democracia, explique e ilustre con ejemplos bajo qué circunstancias y condiciones serán más proclives las elites a conceder derechos políticos (democracia y voto) y alternativamente bajo qué circunstancias y condiciones no estarán dispuestas a hacerlo tratando de ofrecer otras opciones (¿cuáles) que eviten conceder la decisión sobre tributos y gastos al mediano del electorado?
+
+3.  Explique la diferencia entre políticas particularistas y políticas colectivas en relación con los diferentes incentivos a activar contribuciones de campaña de uno o más de un lobby. De ejemplos de tales políticas y de cómo generarían en la práctica incentivos a diferentes lobbies a contribuir o no.
+
+4.  Imagine un país que tiene $m$ distritos electorales uninominales --elige un representante cada uno. De estos, una proporción $k>0.5$ son distritos *swing* y el resto $1-k$ son distritos *core*. Hay 2 (dos) partidos que compiten y múltiples lobbies. Explique, fundamente e ilustre a la luz de los modelos de votación con ideología y grupos de interés, por qué deberían los lobbies seguir estrategias diferentes en relación a las contribuciones de campaña pre-electorales (y cuáles serían estas estrategias). Puede usar diagramas ilustrativos para apoyar y ejemplificar.
+
+5.  Un analista argumentó lo siguiente: "El tipo de corrupción existente en este país hace prácticamente imposible que los agentes tengan incentivo a denunciarla por cuanto siempre se les exige pagar un precio mayor al que pagarían en ausencia de la misma". VERDADERO-FALSO. Justifique adecuadamente su respuesta y use instrumental gráfico/analítico.
+
+# Verdadero y falso (Rafa)
+
+1\) Según el modelo de Acemoglu & Robinson, dada la facilidad para gravar el factor Tierra con altos impuestos, una sociedad con una élite terrateniente será más reacia a la hora de utilizar la represión. **F**
+
+2\) Segun el modelo de Acemoglu & Robinson una mayor desigualdad ($\theta$) genera que tanto la democracia como las concesiones sean menos atractivas para los ricos, haciendo más factible que estos elijan reprimira para proteger sus intreses. **V**
+
+3\) Siempre que los ricos prefieran reprimir a hacer concesiones, también van a preferir reprimir a democratizar. **V**
+
+4\) En el modelo simple de demoratización, si $\mu<\mu^{**}$ si bien las promesas de redistribución por parte de los ricos no son suficientes para evitar la revolución, la transición demorática si. **F**
+
+5\) En el modelo simple de democratización, si $\mu^{**}\leq\mu<\mu^{*}$ si bien las promesas de concesión por parte de los ricos son insuficientes, los pobres deciden no iniciar una revolución y los ricos llevan a cabo una transicion hacia la democracia, donde los pobres elegirán la tasa de redistribución. **V**
+
+6\) En el modelo simple de no-democracia, el hecho de que $\theta\leq\mu$ implica que ante una revolución, lo que se le expropia a los ricos para redistribuir es menor al ingreso que se destruye, entonces los pobres eligen no hacer revolución por lo que los ricos tendrán que redistribuir. **F**
+
+7\) Lo que hace más probable la ocurrencia de una revolución y que las promesas de redistribución sean insuficientes, es el aumento de la represión por parte de la élite. **F**
+
+8\) En el modelo de no-democracia los pobres utilizan el poder de facto mediante la amenaza de revolución para así exigir a las élites que les transfieran poder político de jure mediante una democratización. **F**
+
+9\) El poder político de jure es más permanente que el de facto porque el poder de facto suele estar atado a problemas de acción colectiva. **V**
+
+10\) La transición hacia la democracia en Reino unido generó una caída en la desigualdad dado el incremento en la calificación de los trabajadores y un aumento de la redistribución del ingreso mediante la política tributaria. **V**
+
+11\) Las promesas de mayor redistribución por parte de los ricos de la élite son creíbles porque la amenaza de la revolución no es transitoria, por lo que los ricos deberán cumplir con sus promesas de redistribución. **F**
+
+12\) La teoría tradicional de la Ciencia Política argumenta que la educación es un determinante clave de la emergencia y sostenibilidad democrática porque esta promueve y alienta la participación política y desarrolla un sentido colectivo de deber cívico. **V**
+
+12\) En una autocracia cerrada si bien se puede elegir al poder ejecutivo, no se puede elegir al poder legislativo. **F**
+
+13\) El poder, según la definición de política que se suele utilizar en la ciencia política, es la capacidad de una persona o grupo de tomar decisiones por otros. **F**
+
+14\) La autoridad, según la definición de política que se suele utilizar en la ciencia política es la habilidad de un individuo o grupo de lograr que los resultados reflejen sus intereses. **F**
+
+15\) Si no hubiera heterogeneidad de preferencias sobre los resultados no habría necesidad de un mecanismo para agregar preferencias individuales en una elección colectiva. **V**
+
+16\) Si no hubiera confictos de intereses de ningún tipo, la elección política sería la del *social planner* maximizando la utilidad del individuo representativo. **V**
+
+17\) La escuela de la *Public Choice* estudia la elección colectiva bajo diferentes arreglos políticos e institucionales (modelos de votación, teoría axiomática de Arrow, etc). **F**
+
+18\) La escuela de la *Rational Choice* estudia las decisiones de no-mercado, esto es, la aplicación de la economía a la ciencia política (finanzas públicas, problema de agencia entre gobierno y ciudadano, etc). **F**
+
+19\) El método de Borda como alternativa a Condorcet no puede solucionar el problema de los ciclos dada la posible presencia de alternativas irrelevantes. **F**
+
+20\) El equilibrio que existe si ante propuestas políticas, los agentes votan estrategicamente será multiple y dependerá de las creencias que tiene cada elector sobre el comportamiento de sus contrincantes. **V**
+
+21\) La votación sincera es un supuesto racional ante la presencia de manipulación de agenda. **F**
+
+22\) Si existen preferencias de pico único, existe un ganador de Condorcet pero este no necesariamente coincide con el punto ideal del votante mediano. **F**
+
+23\) La paradoja de Condorcet y el Teorema de la Imposibilidad de Arrow destacan la dificultad para llegar a un equilibrio a través de diferentes mecanismos de elección. **V**
+
+24\) La generalización de Kenneth Arrow sobre la toma de decisiones sociales es que ningún mecanismo de votación puede agregar preferencias individuales en unas preferencias socialmente consistentes. **V**
+
+25\) La Independencia de Alternativas Irrelevantes implica que el ordenamiento social de dos alternativas $X$ e $Y$ depende únicamente de como los individuos ordenan estas dos alternativas y no como ordenan otras. **V**
+
+26\) La unanimidad implica que si el ganador de una elección es $X$ (por sobre $Y$), si se dan vuelta los ordenes de preferencia, el ganador pasa a ser $Y$. **F**
+
+27\) El voto sincero puede no ser muy plausible a veces porque en muchas ocasiones los electores votan por una opción que no es su preferida para evitar que una alternativa que prefieren aun menos sea elegida. **V**
+
+28\) El Teorema de May dice que el único método que satisface las condiciones de anonimidad, neutralidad y monotonicidad para determinar un ganador de una elecicón entre dos alternativas es la regla de la mayoría simple. **F**
+
+29\) Existe monotonicidad cuando si cada votante revierte su orden de preferencia, el resultado de la elección se revierte. **F**
+
+30\) Las condiciones deseadas de un sistema de reglas de votación entre dos alternativas son: anonimidad, neutralidad y unicidad. **F**
+
+31\) En el modelo simple de democratización o represión, si $\mu^{**}\leq\mu<\mu^{*}$ y $\kappa<\tilde{\kappa}$, o si $\mu<\mu^{**}$, si bien sería factible reprimir, el costo de la democratización es mucho más bajo, por lo que se preferirá demoratizar. **F**
+
+32\) Según el modelo de democratización o represión mayor desigualdad genera que tanto la democracia como las concesiones sean menos atractivas para los ricos (dado que se ven obligados a redistribuir a una maor tasa para evitar la revolución), haciendo más factible que estos elijan reprimir para proteger sus intereses. **V**
+
+33\) Siempre que los ricos prefieran reprimir a hacer conseciones, también van a preferir reprimir a democratizar dado que las concesiones se hacen a una tasa débilmente menor a la que se redistribuye en democracia y aparte las promesas de redistribución son más faciles de no cumplir. **V**
+
+34\) En el modelo simple de democratización, si $\mu\ge\mu^{*}$ los pobres deciden no iniciar una revolución por lo que los ricos no necesariamente deberán prometer una tasa mínima de redistribución para evitar la misma. **F**
+
+35\) Los *swing voters* reciben más peso por parte de los candidatos porque son los que más responden a los cambios en las plataformas de política de los candidatos, por lo que son más proclives a cambiar de decisión del voto ante cualquier cambio. **V**
+
+36\) La "suavización" que del comportamiento electoral que plantea el Modelo de Votación Probabilistica introduce un elemento de incertidumbre en los candidatos con respecto a las preferencias de lo votantes, mostrando así que un cambio marginal en la política no necesariamente genera un cambio marginal en la probabilidad de elección. **F**
+
+37\) En el Modelo de Votación Probabilistica, para motivar la "suavización" del comportamiento electoral se supone que los votantes están motivados por una consideración adicional a la plataforma de la política propuesta por cada candidato. **V**
+
+38\) En el modelo de competencia Downsiana cuando hay desigualdad, la democracia conlleva a una sub provisión del bien público. **F**
+
+39\) El modelo de competencia Downsiana esta basado en un sistema multi-partido para evitar de esta forma los problemas adicionales que surgen a la hora de analizar la política de equilibrio. **F**
+
+40\) Con preferencias unimodales, la única consideración que tienen en cuenta los electores para votar uno u otro candidato, es la distancia entre la política anunciada con respecto a su política preferida. **V**
+
+41\) En el Modelo de Votación Probabilistica, cuando un candidato gana las elecciones, se le otorgan unas rentas exógenas "$R$" que están asociadas al beneficio de tener poder per se, siendo estas independientes de las política que adopte el candidato una vez elegido. **F**
+
+42\) Cuando se incorporan las preferencias o afinidados de los votantes por un determinado candidato en el Modelo de Votación Probabilistica, desaparece la convergencia hacia la política preferida por el Votante Mediano y surgen elementos adicionales que determinan la política económica de equilibrio. **V**
+
+43\) En economía política, las tres I’s hacen referencia a Intereses, Instituciones e Ideas. Las ideas incluyen paradigmas, programas y encuadres, que, sin embargo, no impactan en el tipo y la forma de las decisiones adoptadas. **F** *Clara*
+
+44\) Dentro de las tres I’s se encuentran los intereses, que son representados por preferencias de diferentes agentes por alternativas de política y siempre se modelan a nivel colectivo. **F** *Clara*
+
+45\) Aunque exista heterogeneidad de intereses, lo que deriva en restricciones a nivel político, las políticas que se implementan son siempre óptimas, y se corresponden con las del social planner. **F** *Clara*
+
+46\) Ante la existencia de heterogeneidad de intereses, si la política óptima se encuentra, ésta siempre se implementa. **F** *Clara*
+
+47\) Tanto el primer como el segundo teorema de la economía de bienestar son ampliamente difundidos y aplicados en la economía política, ya que se acepta que no existe un trade-off entre eficiencia y equidad. **F** *Clara*
+
+48\) Las transferencias lump-sum entre consumidores que propone el segundo teorema de la economía del bienestar son inviables debido al problema de la información, lo que genera que el gobierno recurra a impuestos y transferencias distorsivas. **V** *Clara*
+
+49\) En el problema del equilibrio político, tanto el parámetro $\alpha$ como $\lambda$ se determinan a través del mercado. **F** *Clara*
+
+50\) La heterogeneidad ex-ante es aquella en la que los agentes difieren en sus características (dotación de factores, preferencias, niveles de ingreso) al entrar a la arena política, mientras que la heterogeneidad ex-post es la que se genera si existe un conflicto de intereses como resultado de las políticas adoptadas. **V** *Clara*
+
+51\) La política económica es el resultado de equilibrio de un juego cooperativo bien definido, bajo supuestos primitivos sobre el comportamiento económico y político. **F** *Vladi*
+
+52\) Para que haya un ganador en una votacion por pluralidad, siempre es requisito necesario que la cantidad de votantes sea impar. **F** *Vladi*
+
+53\) Para el caso de una eleccion entre 3 alternativas el teorena de May establece que la votacion por mayoria absoluta cumple con los requisitos de anonimidad, monotonicidad y neutralidad. **F** *Vladi*
+
+54\) Si las preferencias son de pico único, entonces todos los individuos estaran en cuanto a cual sera el nivel de gasto público a escoger. **F** *Tobi*
+
+55\) En la economía del bienestar se encuentra implícito que en caso de existir una política óptima la misma debe alcanzarse a través de politicas de gobierno adecuadas. **F** *Tobi*
+
+56\) El alcance de las politicas óptimas en una sociedad se ve restringido por las diferencias que existen en las preferencias individuales. **V** *Tobi*
+
+# Ejercicios (Rafa)
+
+## Pico único
+
+A partir de una encuesta realizada a estudiantes de Economía de la Universidad Nacional de Córdoba sobre las preferencias por pre-candidatos a presidente, se obtuvieron los siguientes ranking de preferencias:
+
+1.  a\. $PB \sim HRL>JM>SM>JG$
+
+    b\. $JM>PB>HRL>JG>SM$
+
+    c\. $HRL>JG>SM>JM>PB$
+
+    d\. $JM>PB>HRL>SM>JG$
+
+    e\. $JM>JG>PB>HRL \sim SM$
+
+    f\. $PB>HRL>JM>SM>JG$
+
+    g\. $PB>JM>HRL>SM>JG$
+
+    h\. $JM>SM>PB>HRL>JG$
+
+a\) En base a esta información, seleccione los ranking de preferencias que presenten *pico único* (para ayudarse puede graficar).
+
+b\) Seleccione únicamente los ranking de preferencias que presenten *pico único* y verifique si cumple con la propiedad de *cruce único.*
+
+**Nota:** en cuanto al ordenamiento de los candidatos, ordenelos de izquieda a derecha de la siguiente manera: JG, SM, HRL, PB y JM.
+
+### Respuesta:
+
+**a) 1, 4, 6 y 7 son de pico único.**
+
+**b) No cumple con la propiedad de cruce único.**
+
+## Meltzer y Richard
+
+Sea una sociedad conformada por dos clases sociales, ricos y pobres, donde los primeros representan el $52\%$ de la población total. De esta forma, suponga que la población está normalizada a 1 y suponga también que el ingreso total de los ricos es de $y_{r}=78$ y el de los pobres $y_{p}=56$. Por otro lado, suponiendo que esta sociedad funciona a partir de una democracia directa, la misma se puso de acuerdo en la implementación de un impuesto a las ganancias, quedando pendiente la discusión de si su alícuota debe ser de $\%3$ o de $\%5$.
+
+Con esta información, y utilizando el modelo de Meltzer y Richard donde cuando sea necesario, resuelva los siguientes incisos:
+
+a.  ¿Cuál es el ingreso promedio en esta economía? ¿Y el ingreso total?
+
+b.  ¿Existe desigualdad en esta economía?
+
+c.  De existir desigualdad (o no), calcule cuanto deben cobrar los ricos para que exista una distribución perfectamente equitativa del ingreso. Deje expresados sus calculos de ser necesario.
+
+d.  Calcule el ingreso directo de los pobres (considerando que ya se discutió el monto del *flat tax*).
+
+### Respuestas
+
+a.  **Dado que en esta economía la población esta normalizada a 1,** **el ingreso promedio es equivalente al ingreso total (**$\bar{y}=y$)**, por ende** $$\bar{y}=y=\delta y_{r}+(1-\delta) y_{p}$$$$\bar{y}=y=0,52.78+0,48.56$$$$\bar{y}=y=67,44$$ **El ingreso total es igual al ingreso promedio.**
+
+b.  **Dado que** $$y_{r}=\frac{\theta y}{\delta}$$ **y** $$y_{p}=\frac{(1-\theta)y}{(1-\delta)}$$ **entonces, utilizando** $y{r}$ **para despejar** $\theta$, $$\theta=\frac{y_r \delta}{y}$$ **entonces** $$\theta=\frac{78.0,52}{67,44}=0,6014$$ **dado que** $\theta>\delta$**, existe desigualdad.**
+
+c.  **La idea es que no realicen ningun calculo y que concluyan que para que exista equidad el ingreso de los ricos debe ser igual al de los pobres.**
+
+d.  **Sabiendo que el ingreso directo viene dado por**\
+    $$y^{d}_{p}=(1-\tau)y_{p}+T$$ **y sabiendo que la tasa impositiva tanto como la transferencia es igual para todos los individuos** $$T=\tau(\delta y_{r}+(1-\delta)y^{p})=\tau y$$ $$T=0,03.67,44$$ $$T=2,0232$$ **entonces el ingreso directo de los pobres vendrá dado por** $$y^{d}_{p}=(1-0,03).56+2,0232$$ $$y^{d}_{p}=56,3432$$
+
+# Ejercicios (Mateo)
+
+Según la última Encuesta Permanente de Hogares (EPH), la Argentina está conformada por dos grandes grupos sociales: ricos y pobres, si están situados por encima o por debajo de la línea de pobreza, respectivamente. La población total (en miles) según la última estimación del INDEC es de ($n=47.000$). Hay, según la misma fuente, $n_{p}=24.863$ individuos pobres y $n_{r}=22.137$ ciudadanos ricos. Según una consultora, el ingreso promedio de cada rico es de 1800 dólares, y de cada pobre, 700 dólares.
+
+Por otro lado, suponiendo que nuestra sociedad funciona a partir de una democracia directa, están en discusión dos esquemas para la reimplantación del Impuesto a las Ganancias (que suponemos funciona como *flat tax*): el primero propone una alícuota de $30\%$, y el segundo, de $35\%$, ambas aplicables a los ingresos de todos los individuos. El gobierno, a su vez, efectúa transferencias lump-sum, iguales para todos los individuos.
+
+Con esta información, y utilizando el modelo de Meltzer y Richard, resuelva los siguientes incisos:
+
+1.  ¿Cuál es la tasa de pobreza en el país?
+
+2.  ¿Cuál es el ingreso promedio en esta economía? ¿Y el ingreso total $Y$?
+
+3.  ¿Existe desigualdad en esta economía?
+
+4.  De existir desigualdad (o no), calcule cuánto deberían cobrar los ricos para que exista una distribución perfectamente equitativa del ingreso. Deje expresados sus cálculos.
+
+5.  En base a los supuestos sobre la forma de la elección, ¿qué alícuota impositiva resultaría electa?
+
+6.  Calcule el ingreso directo de los pobres (considerando la alícuota elegida).
+
+### Respuestas
+
+**1. ¿Cuál es la tasa de pobreza en el país,** $(1-\delta)$?
+
+La tasa de pobreza es $$\frac{24.863}{47.000}=0,529=52,9\%$$
+
+**2. ¿Cuál es el ingreso promedio en esta economía? ¿Y el ingreso total** $Y$?
+
+El ingreso total de los pobres es de $700*24.683=\$17.404.100$ El ingreso total de los ricos es de $1800*22.137=\$39.846.600$ El ingreso total de la economía, $Y=17.404.100+39.846.600=\$57.250.700$ El ingreso promedio de la economía es $57.250.700 / 47.000 = \$1.218,10$
+
+**3. ¿Existe desigualdad en esta economía?**
+
+Para comprobar si existe desigualdad en esta economía, primero definimos a $\delta$ como la proporción de individuos ricos y a $(1-\delta)$ como la proporción de individuos pobres. Ahora bien, si queremos parametrizar la desigualdad, definimos a $\theta$, que representaría la proporción del ingreso total en manos de los ricos, y $(1-\theta)$ la proporción de ingresos que reciben los pobres.
+
+Vimos que los pobres representan el 52,9% de la población. En términos de ingreso, reciben $17.404.100 / 57.250.700 = 0,304 = 30,4\%$. Luego existe desigualdad.
+
+**4. De existir desigualdad, ¿cuánto deberían cobrar ricos y pobres para que exista una distribución perfectamente equitativa del ingreso?**
+
+No es necesario calcular nada, deben cobrar todos el ingreso promedio de la economía, $\$1.218,10$.
+
+**5. En base a los supuestos sobre la forma de la elección, ¿qué alícuota impositiva resultaría electa?**
+
+Suponiendo democracia directa, y dada la existencia de más individuos pobres que ricos, resultaría electa la tasa impositiva más alta, de 35%.
+
+**6. Calcule el ingreso directo de los pobres (considerando la alícuota elegida).**
+
+Recordemos que el ingreso disponible de los pobres viene definido por $$y^{d}=(1-\tau)y+T$$
+
+El dato que nos falta es el valor de las transferencias. Para ello debemos calcular cuánto se recaudaría por cada individuo al aplicarle el impuesto, por lo que de esta forma $$R=\frac{(y_{p}-y^{n}_{p})n_{p}+(y_{r}-y^{n}_{r})n_{r}}{n}$$. Para encontrar ese valor, calculamos el ingreso neto de impuestos $$y^{n}=(1-\tau)y$$ que para el caso de los pobres y de los ricos sería $$y^{n}_{p}=(1-0,35)*700=455$$$$y^{n}_{r}=(1-0,35)*1800=1170$$ respectivamente.
+
+De esta forma, la recaudación per cápita viene dada por $$R=\frac{(700-455)*24.863+(1800-1170)*22.137}{47.000}$$ $$R=\frac{(255)*24.863+(630)*22.137}{47.000}$$ $$R=\frac{6.091.435+13.946.310}{47.000}$$ $$R=\frac{20.037.745}{47.000}=426,335$$
+
+y debemos suponer que todo lo que se recauda se redistribuye $$R=T$$
+
+Ya con esta información, estamos en condiciones de calcular el ingreso directo de cada individuo, que viene dado por $$y^{d}_{p}=(1-0,35)700+426,335=\$881,335$$ $$y^{d}_{r}=(1-0,35)1800+426,335=\$1.367,335$$
+
+# Choice
+
+-   En el modelo de equilibrio con política ex -post(unidad 1), dados los individuos A y B.Con un $\alpha>\ 0.5$ el cual corresponde al individuo $A$la función de utilidad del planificidador social aumenta cuando: *Vladi*
+
+    1.  $\lambda$ aumenta
+    2.  $\beta_A$ aumenta
+    3.  $(1-\lambda)$ aumenta
+    4.  $\beta_B$ aumenta
+
+-   El votante racional es aquel que sus preferencias cumplen con las condiciones de: *Vladi*
+
+    1.  Completas, transitivas y monotonas
+    2.  Completas y monotonas
+    3.  monotonas y transitivas
+    4.  **transitivas y completas**
+
+-   El segundo teorema del bienestar en la practica no puede llevarse a cabo porque: *Vladi*
+
+    1.  Es inequitativo
+    2.  Seria ineficiente y no equitativo
+    3.  no es posible observar las dotaciones de todos los individuos
+    4.  transferir dotaciones no es posible
+    5.  **opción 3 y 4**
+
+-   ¿Cuál de los siguientes supuestos no corresponde al Modelo de Competencia Electoral de Downs?: *Clara*
+
+    1.  Los candidatos cumplen sus promesas; se resuelve el equilibrio político.
+    2.  **Los candidatos no son oportunistas; les interesan tanto las rentas del poder como las políticas implementadas.**
+    3.  La ideología es un componente continuo y unidimensional, que está en el rango \[0,100\], entre una economía completamente socializada (0) y una economía totalmente privada (100).
+    4.  Ninguno de los supuestos mencionados pertenecen al MCE de Downs.
+
+-   La evidencia empírica al aplicar el Modelo de Competencia Electoral de Downs muestra que: *Clara*
+
+    1.  Los sistemas de votación por mayoría en una elección conducen a un sistema bipartidista.
+    2.  Los sistemas de votación por representación proporcional conducen a un sistema multipartidista.
+    3.  Los sistemas de votación por mayoría en dos vueltas llevan a un sistema multipartido con tendencia a formar coaliciones.
+    4.  **Todas son correctas.**
+
+-   En el modelo candidato-ciudadano se hace el supuesto de que los políticos presentan, al igual que los votantes, heterogeneidad de intereses. Esto implica que: *Clara*
+
+    1.  Los candidatos son políticos partidistas, no oportunistas.
+    2.  Los candidatos siguen siendo políticos oportunistas, ya que sólo les interesan las rentas del poder y maximizar su tiempo de permanencia en el mismo.
+    3.  Los políticos se identifican con un grupo determinado de ciudadanos, por lo que buscan ganarse sus votos para maximizar su utilidad esperada, y en ningún momento tienen incentivos a romper sus promesas, ya que las políticas a implementar también les generan utilidad.\
+    4.  La utilidad de los candidatos depende tanto de la probabilidad de que los individuos voten por su partido como de lo que generan las políticas implementadas.
+    5.  **(1) y (4) son correctas.**\
+    6.  
+        (1) y (3) son correctas.
+    7.  Ninguna es correcta.
+
+-   Dados 6 grupos de individuos con los siguientes ordenamientos de preferencias sobre 5 alternativas: *Tobi* G1 (12 personas)             A \> D \> E \> C \> B
+
+    G2 (18 personas)             B \> E \> D \> C \> A
+
+    G3 (2 personas)              C \> B \> E \> D \> A
+
+    G4 (4 personas) . . . . . . . . . . . . .D \> C \> E \> B \> A
+
+    G5 (9 personas) . . . . . . . . . . . . . E \> B \> D \> C \> A
+
+    G6 (10 personas)             E \> C \> D \> B \> A
+
+    ¿Cuántos puntos obtendrá la alternativa ganadora por el método de Borda \[utilice criterio de primer alternativa obtiene "n-1" puntos\]?
+
+    1.  156
+    2.  **166**
+    3.  150
+    4.  128
+    5.  140
+    6.  168
+    7.  Ninguna es correcta
+
+-   Suponga que existen 5 alternativas - A, B, C, D, E - y cuarenta (40) votantes en una elección que debe ser resuelta mediante el metodo de la cuenta de Borda. Si elcandidato A obtiene 139 puntos, el candidato B obtiene 121 puntos, el candidato C obtiente 81 puntos, y el candidato D obtiene 116 puntos, quién será el ganador de la elección: *Tobi*
+
+    1.  Alternativa A
+    2.  Alternativa B
+    3.  Alternativa C
+    4.  Alternativa D
+    5.  **Alternativa E**
+    6.  Hay un empate entre A y E
+    7.  No puede saberse con la información suministrada.
+
+-   Una de las principales consecuencias de la heterogeneidad de intereses inherente a los individuos de una sociedad es: *Tobi*
+
+    1.  La política óptima implica ponderar las utilidades individuales de los individuos.
+    2.  Las políticas adoptadas en la práctica no son óptimas.
+    3.  No se cumplen los resultados implícitos en el segundo teorema del bienestar.
+    4.  En caso de existir una política óptima no es cierto que se implemente.
+    5.  \(1\) y (2) son correctas.
+    6.  **(2) y (4) son correctas**
+    7.  \(1\) y (4) son correctas
+    8.  Todas son correctas
+
+-   El Teorema de May afirma: *Tobi*
+
+    1.  Para que exista un ganador de Condorcet las preferencias de los votantes deben ser racionales.
+    2.  Siempre que exista un número impar de votantes, existirá un resultado cierto.
+    3.  **El único sistema de votación que cumple las condiciones de anonimidad, neutralidad y monotonicidad es el de mayoría absoluta.**
+    4.  Un sistema de votación que cumpla con las condiciones de transitividad y completitud siempre otorgará un único ganador.
+    5.  En caso de que alguno de los votantes no tenga preferencias de pico único no puede garantizarse la existencia de un ganador de Condorcet.
+    6.  Ninguna es correcta.
+
+-   En cuanto al teorema del jurado, seleccione la/las alternativa correcta: *Tobi*
+
+    1.  Si p \> 1/2 cada votante tiene mas probabilidad de votar la alternativa incorrecta.
+    2.  Si p \> 1/2 añadir mas votantes al jurado aumenta la probabilidad de que la alternativa escogida sea incorrecta.
+    3.  **Si p \< 1/2 se maximiza la probabilidad de escoger la alternativa correcta disminuyendo el tamaño del jurado.**
+    4.  si p \> 1/2 se maximiza la probabilidad de escoger la alternativa correcta con un tamaño del jurado igual a 1.
+    5.  **Si p \< 1/2 aumentar la cantidad de votantes en el jurado aumenta la probabilidad de que elija la alternativa incorrecta.**
