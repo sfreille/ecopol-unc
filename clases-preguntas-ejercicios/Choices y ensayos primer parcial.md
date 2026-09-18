@@ -1,6 +1,6 @@
-# EXAMEN PARCIAL: ECONOMÍA POLÍTICA
+# 1er EXAMEN PARCIAL: ECONOMÍA POLÍTICA
 **Cátedra de Economía Política**  
-**Evaluación Teórico-Práctica de Nivel Universitario (Unidades 1 a 5)**  
+**Evaluación Teórica (Unidades 1 a 5)**  
 
 ---
 
