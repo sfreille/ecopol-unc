@@ -1,6 +1,5 @@
-# EXAMEN FINAL: ECONOMÍA POLÍTICA
+# 1ER PARCIAL: ECONOMÍA POLÍTICA
 **Cátedra de Economía Política**  
-**Evaluación Teórico-Práctica de Nivel Final Universitario**  
 *Material bibliográfico de referencia: Compilado Economía Política y Clase Práctica (UNC).*[cite: 1, 2]
 
 ---
