@@ -1,0 +1,14 @@
+---
+title: "Economía Política — Primer Examen Parcial — Tema B"
+output-file: epol-parc01-theme-b-reprint.pdf
+format:
+  pdf:
+    pdf-engine: xelatex
+    keep-tex: false
+header-includes:
+  - \usepackage{pdfpages}
+---
+
+<!-- Recovered archival/reprint source from the final printed PDF. -->
+
+\includepdf[pages=-,fitpaper=true]{epol-parc01-theme-b.pdf}

@@ -1,0 +1,91 @@
+---
+title: "Economía Política"
+subtitle: "Primer Examen Parcial — Tema B — CLAVE"
+author: "Licenciatura en Economía (FCE-UNC) — División Freille"
+format:
+  pdf:
+    fontsize: 11pt
+    geometry: legalpaper,margin=0.75in
+lang: es
+---
+
+# Puntaje
+
+Elección múltiple: 30; verdadero/falso: 10; ejercicios: 40; ensayo: 20. **Total: 100 puntos.**
+
+# I. Elección múltiple
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Respuesta | **c** | **d** | **c** | **b** | **c** | **b** | **e** | **b** | **c** | **c** |
+
+1. **c.** $W$ representa bienestar democrático y $C$ contribuciones; $\alpha$ pondera $W$.
+2. **d.** Las tres proposiciones distinguen correctamente heterogeneidad *ex ante*, conflicto *ex post* y homogeneidad.
+3. **c.** Es la imposibilidad de satisfacer simultáneamente las condiciones de Arrow.
+4. **b.** Con independencia y $p>1/2$, el acierto mayoritario tiende a uno.
+5. **c.** Cruce único exige que la preferencia relativa entre dos políticas cambie de signo como máximo una vez al ordenar tipos.
+6. **b.** $\mu^*=\theta-p\Delta V^p$ cae al aumentar $p$.
+7. **e.** I y II son correctas; urbanización puede facilitar acción colectiva.
+8. **b.** El ciudadano-candidato valora políticas y enfrenta fuerzas centrípeta y centrífuga.
+9. **c.** $NEP=1/(.25+.09+.04)=2.63$.
+10. **c.** Sin ganador de Condorcet, una agenda cerrada puede alterar al ganador.
+
+# II. Verdadero o falso
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Respuesta | **V** | **F** | **V** | **F** | **V** | **F** | **F** | **V** | **V** | **F** |
+
+1. Completitud y transitividad permiten ordenar alternativas.  
+2. May caracteriza decisiones entre dos alternativas.  
+3. Bajo cruce único, el ideal del tipo mediano vence por pares.  
+4. Si $p<1/2$, un jurado mayor converge a la opción incorrecta.  
+5. Democracia reasigna poder *de iure*.  
+6. Con desigualdad muy alta la élite puede reprimir: la relación no es necesariamente monotónica.  
+7. Elecciones multipartidarias competitivas son incompatibles con autocracia cerrada.  
+8. Preferencias propias pueden sostener divergencia.  
+9. Mayor NEP indica mayor fragmentación.  
+10. Borda puede violar independencia de alternativas irrelevantes.
+
+# III. Ejercicios
+
+## Ejercicio 1 [20 puntos]
+
+**a [3].** $\bar y=.60(50)+.40(125)=80$; $Y=8{,}000$.
+
+**b [3].** $T(.20)=(.20-.5(.20)^2)80=14.40$ y pérdida $1.60$. $T(.35)=(.35-.5(.35)^2)80=23.10$ y pérdida $4.90$.
+
+**c [4].** Pobres: $V^p(.20)=54.40$, $V^p(.35)=55.60$. Ricos: $V^r(.20)=114.40$, $V^r(.35)=104.35$.
+
+**d [3].** Los pobres son 60% y prefieren $.35$; gana $\tau_H=.35$. El mediano es pobre.
+
+**e [4].** $\partial V^i/\partial\tau=-y^i+(1-\tau)\bar y=0$, de modo que $\tau_i^*=1-y^i/\bar y$. Pobres: $.375$; ricos: solución restringida $0$. El mediano prefiere $.35$.
+
+**f [3].** Con 51% de ricos, el mediano es rico y gana la menor propuesta, $\tau_L=.20$.
+
+## Ejercicio 2 [20 puntos]
+
+**a [3].** $\omega=(.20,.36,.16)$; suma $.72$.
+
+**b [3].** Pesos normalizados: $(.2778,.5000,.2222)$.
+
+**c [3].** Presupuesto: $(33.33,60.00,26.67)$.
+
+**d [3].** El gráfico debe comparar $\alpha=(.50,.30,.20)$ con los pesos anteriores. El grupo 2 supera al 1 por su mayor densidad marginal.
+
+**e [4].** Con $\phi_1=.80$, pesos brutos $(.40,.36,.16)$ y normalizados $(.4348,.3913,.1739)$.
+
+**f [4].** $.50\phi_1>.30(1.20)=.36$, por lo que $\phi_1>.72$.
+
+# IV. Ensayo [20 puntos]
+
+| Criterio | Puntos |
+|:--|--:|
+| Poder *de iure/de facto* y problema de compromiso | 4 |
+| Concesiones versus democratización | 4 |
+| Desigualdad, amenaza y represión; relación no monotónica | 4 |
+| Terratenientes versus élites industriales | 3 |
+| Síntesis de *statu quo*, concesión, democracia, represión y revolución | 5 |
+
+Una respuesta excelente explica que el poder *de facto* de los pobres es transitorio, por lo que la élite puede incumplir promesas cuando desaparece la amenaza. La democracia transfiere poder institucional y vuelve creíble la redistribución. Con desigualdad baja puede no haber amenaza; con desigualdad intermedia puede haber democratización; con desigualdad alta, represión. La tierra inmóvil es fácilmente gravable y relativamente menos vulnerable a la destrucción que el capital físico y humano.
+

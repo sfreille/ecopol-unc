@@ -1,0 +1,216 @@
+---
+title: | 
+  | Economía Política
+  | Primer Examen Parcial
+subtitle: |
+  | División: FREILLE
+  | 01/OCT/2024
+  | Apellido y Nombre:
+format:
+  pdf:
+    fontsize: 12pt
+    geometry: legalpaper,margin=0.8in
+---
+
+# **Multiple Choice [28 pts, 3.5 pts c/u]**
+
+| **1** 	| **2** 	| **3** 	| **4** 	| **5** 	| **6** 	| **7** 	| **8** 	|
+|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
+|  	|  	|  	|  	|  	|  	|  	|  	|
+
+1.  **En el modelo candidato-ciudadano se hace el supuesto de que los
+    políticos presentan, al igual que los votantes, heterogeneidad de
+    intereses. Esto implica que:** a)  Los candidatos son políticos
+    partidistas, no oportunistas; b) Los candidatos siguen siendo
+    políticos oportunistas, ya que sólo les interesan las rentas del
+    poder y maximizar su tiempo de permanencia en el mismo; c)  Los
+    políticos se identifican con un  grupo determinado de ciudadanos,
+    por lo que buscan ganarse sus votos para maximizar su utilidad
+    esperada, y en ningún momento tienen incentivos a romper sus
+    promesas, ya que las políticas a implementar también les generan
+    utilidad; d)  La utilidad de los candidatos depende tanto de la
+    probabilidad de que los individuos voten por su partido como de lo
+    que generan las políticas implementadas; e)  (a) y (d) son
+    correctas; f) (a) y (c) son correctas; g) Ninguna es correcta.
+
+2.  **El votante racional es aquel que sus preferencias cumplen con las
+    condiciones de:** a) Completas, transitivas y monotonas; b)
+    Completas y monotonas; c)  Monotonas y transitivas; d)
+    Transitivas y completas; e) Ninguna es correcta
+	
+3.  **En el modelo de democratización de Acemoglu y Robinson si $\theta
+    > \mu$, entonces:** a) En estado $S=L$, puede haber revolución; b) En
+    estado $S=H$, nunca hay revolución; c) En estado $S=H$, sólo hay
+    revolución cuando la misma es excesivamente costosa ($\mu$ alto); d) En estado $S=L$, sólo hay revolución cuando la misma es
+    relativamente barata ($\mu$ bajo); e) En estado $S=H$, sólo hay
+    revolución cuando la misma es relativamente barata ($\mu$ bajo); f)
+    Ninguna es correcta 
+
+4.  **Sea $V_{m}(q)$ las preferencias del votante mediano, en el modelo
+    de competencia electoral downsiano la probabilidad de que el
+    votante mediano vote por el partido A será:** a) igual a 0 si
+    $V_{m}(q_{A}) > V_{m}(q_{B})$; b) igual a 0 si $V_{m}(q_{A}) <
+    V_{m}(q_{B})$; c) igual a 1 si $V_{m}(q_{A}) < V_{m}(q_{B})$; d)
+    igual a 1/2 si $V_{m}(q_{A}) > V_{m}(q_{B})$; e) igual a 1 si
+    $V_{m}(q_{A}) > V_{m}(q_{B})$; f) (b) y (d) son correctas; g) (b)
+    y (c) son correctas; h) (b) y (e) son correctas; i) (c) y (e) son correctas; j) ninguna es correcta
+
+5.  **Suponga que existen 5 alternativas - A, B, C, D, E - y cuarenta (40) votantes en una elección que debe ser resuelta mediante el
+    metodo de la cuenta de Borda. Si elcandidato A obtiene 139 puntos,
+    el candidato B obtiene 121 puntos, el candidato C obtiente 81
+    puntos, y el candidato D obtiene 116 puntos, quién será el ganador
+    de la elección**: a) Alternativa A; b) Alternativa B; c) Alternativa
+    C; d) Alternativa D; e) Alternativa E; f) Hay un empate entre
+    A y E; g) No puede saberse con la información suministrada.
+	
+6.  **El segundo teorema del bienestar en la practica no puede llevarse a
+    cabo porque:** a) Es inequitativo; b) Seria ineficiente y no
+    equitativo; c) No es posible observar las dotaciones de todos los
+    individuos; d) Transferir dotaciones no es posible; e) (c) y (d)
+    son correctas; f) (b) y (d) son correctas
+
+7.  **¿Cuál de las siguientes NO SON preferencias de pico único?** a)
+    $x \succ y \succ z \succ w$; b) $z \succ y \succ x \succ w$; c) $w
+    \succ z \succ y \succ x$; d) $w \succ x \succ y \succ z$; e) $w
+    \succ y \succ x \succ z$; f) $y \succ z \succ x \succ w$; g) $y \succ x \succ w \succ z$
+	
+8.  **Sea $\sigma^{i,j}$ la preferencia ideológica relativa por el
+    partido B y $\delta$ la popularidad agregada relativa del partido
+    B, y sean sus valores realizados $\sigma^{i,j}=-2.5$ y
+    $\delta=3.5$, entonces para el votante swing se cumplirá que:** a)
+    la utilidad que deriva del partido A es menor que la que deriva
+    del partido B; b) la utilidad que deriva del partido A y B es la
+    misma; c) la utilidad que deriva del partido A es mayor que la que
+    deriva del partido B; d) es neutral porque su preferencia
+    ideológica relativa es igual a 0; e) no se puede responder con
+    certeza sin mayor información; f) ninguna es correcta
+	
+	
+    
+# **V-F [15 pts, 1.5 pts c/u]** - No requiere justificación
+
+| **1** 	| **2** 	| **3** 	| **4** 	| **5** 	| **6** 	| **7** 	| **8** 	| **9** 	| **10** 	|
+|-------	|-------	|-------	|-------	|-------	|-------	|-------	|-------	|-------	|--------	|
+|       	|       	|       	|       	|       	|       	|       	|       	|       	|        	|
+
+1. Lo que hace más probable la ocurrencia de una revolución y que las
+   promesas de redistribución sean insuficientes, es el aumento de la
+   represión por parte de la élite. 
+2. La generalización de Kenneth Arrow sobre la toma de decisiones
+   sociales es que ningún mecanismo de votación puede agregar
+   preferencias individuales en unas preferencias socialmente
+   consistentes. 
+3. En el modelo simple de democratización, si $\mu\ge\mu^{*}$ los
+   pobres deciden no iniciar una revolución por lo que los ricos no
+   necesariamente deberán prometer una tasa mínima de redistribución
+   para evitar la misma. 
+4. Los *swing voters* reciben más peso por parte de los candidatos
+   porque son los que más responden a los cambios en las plataformas
+   de política de los candidatos, por lo que son más proclives a
+   cambiar de decisión del voto ante cualquier cambio. 
+5. Si las preferencias son de pico único, entonces todos los
+   individuos estaran en cuanto a cual sera el nivel de gasto público
+   a escoger.
+6. En el modelo de competencia Downsiana cuando hay desigualdad, la
+   democracia conlleva a una sub provisión del bien público. 
+7. La "suavización" que del comportamiento electoral que plantea el
+   Modelo de Votación Probabilistica introduce un elemento de
+   incertidumbre en los candidatos con respecto a las preferencias de
+   lo votantes, mostrando así que un cambio marginal en la política no
+   necesariamente genera un cambio marginal en la probabilidad de
+   elección. 
+8. Según el modelo de democratización o represión mayor desigualdad
+   genera que tanto la democracia como las concesiones sean menos
+   atractivas para los ricos (dado que se ven obligados a redistribuir
+   a una mayor tasa para evitar la revolución), haciendo más factible
+   que estos elijan reprimir para proteger sus intereses.
+9. En una autocracia cerrada si bien se puede elegir al poder
+   ejecutivo, no se puede elegir al poder legislativo. 
+10. Para el caso de una eleccion entre 3 alternativas el teorena de
+    May establece que la votacion por mayoria absoluta cumple con los
+    requisitos de anonimidad, monotonicidad y neutralidad. 
+	
+   
+# **Ejercicios [37 pts]**
+
+**Ejercicio 1 (18 pts).** Según la última Encuesta Permanente de Hogares (EPH), la Argentina está conformada por dos grandes grupos sociales: ricos y pobres, si están situados por encima o por debajo de la línea de pobreza, respectivamente. La población total (en miles) según la última estimación del INDEC es de ($n=47.000$). Hay, según la misma fuente, $n_{p}=24.863$ individuos pobres y $n_{r}=22.137$ ciudadanos ricos. Según una consultora, el ingreso promedio de cada rico es de 1800 dólares, y de cada pobre, 700 dólares.
+
+Por otro lado, suponiendo que nuestra sociedad funciona a partir de una democracia directa, están en discusión dos esquemas para la reimplantación del Impuesto a las Ganancias (que suponemos funciona como *flat tax*): el primero propone una alícuota de $30\%$, y el segundo, de $35\%$, ambas aplicables a los ingresos de todos los individuos. El gobierno, a su vez, efectúa transferencias lump-sum, iguales para todos los individuos.
+
+Con esta información, y utilizando el modelo de Meltzer y Richard,
+resuelva los siguientes incisos:
+
+1.  ¿Cuál es la tasa de pobreza en el país?
+
+2.  ¿Cuál es el ingreso promedio en esta economía? ¿Y el ingreso total $Y$?
+
+3.  ¿Existe desigualdad en esta economía?
+
+4.  De existir desigualdad (o no), calcule cuánto deberían cobrar los ricos para que exista una distribución perfectamente equitativa del ingreso. Deje expresados sus cálculos.
+
+5.  En base a los supuestos sobre la forma de la elección, ¿qué alícuota impositiva resultaría electa?
+
+6.  Calcule el ingreso directo de los pobres (considerando la alícuota elegida).
+
+
+**Ejercicio 2 (14 pts).** A partir de una encuesta realizada a estudiantes de Economía de la Universidad Nacional de Córdoba sobre las preferencias por pre-candidatos a presidente, se obtuvieron los siguientes ranking de preferencias:
+
+1.  a\. $PB \sim HRL>JM>SM>JG$
+
+    b\. $JM>PB>HRL>JG>SM$
+
+    c\. $HRL>JG>SM>JM>PB$
+
+    d\. $JM>PB>HRL>SM>JG$
+
+    e\. $JM>JG>PB>HRL \sim SM$
+
+    f\. $PB>HRL>JM>SM>JG$
+
+    g\. $PB>JM>HRL>SM>JG$
+
+    h\. $JM>SM>PB>HRL>JG$
+
+a\) En base a esta información, seleccione los ranking de preferencias
+que presenten *pico único* [para ayudarse, sugerimos graficar].
+
+b\) Seleccione únicamente los ranking de preferencias que presenten
+*pico único* y verifique si además cumplen con la propiedad de *cruce único.*
+
+*NOTA: en cuanto al ordenamiento de los candidatos, ordenelos de izquierda a derecha de la siguiente manera: JG, SM, HRL, PB y JM.*
+
+
+**Ejercicio 3 (5 pts).** Suponga los siguientes perfiles de preferencias y que la elección debe ser resuelta por la cuenta de Borda con la convención de que los empates son resueltos *alfabéticamente*. Además suponga que *uno de los dos votantes* cuyo ranking es $B \succ A \succ C$ vota deshonestamente $A \succ B \succ C$. Se le pide que **muestre** que esto cambiará el resultado de la elección en una manera que el votante deshonesto prefiere
+
+| **3** | **2** | **3** |
+|-------|-------|-------|
+| C     | B     | A     |
+| B     | A     | C     |
+| A     | C     | B     |
+
+# **Ensayos [20 pts]**
+
+**Ensayo (20 pts).** El siguiente diagrama ilustra las posiciones ideológicas
+(políticas) de multiples candidatos en dos países tanto para
+elecciones primarias (linea sólida) como generales (línea punteada) en
+un espacio unidimensional de políticas que varía entre -2 (extrema
+izquierda) y 2 (extrema derecha). NOTA: En el gráfico de la izquierda,
+las 2 densidades más a la derecha representa al partido republicano y
+las 2 densidades más a la izquierda representa al partido demócrata. 
+partido demócrata. En el gráfico de la derecha, la densidad más a la
+derecha representa al partido de extrema derecha, la que está a su
+izquierda representa al partido de derecha; la densidad al medio
+al partido partido de centro y la densidad más a la izquierda
+al partido de centro-izquierda. **Se le pide:** a) explique e
+interprete la posición, movimientos y lógicas de los movimientos usando
+elementos teóricos-analíticos desarrollados en el curso; b) ¿qué
+paralelo (si encuentra alguno) le parece existe con el proceso
+de elecciones en Argentina en 2023 --PASO, General, y Segunda Vuelta?
+*NOTA: Tenga en cuenta de comparar principalmente entre posición de
+densidades (curvas) de diferentes elecciones; adicionalmente a ello,
+también tenga en cuenta si influye en las posiciones y movimientos de
+las diferentes densidades el hecho de que sean democracias
+bi-partidistas o multipartidistas.* 
+
+
+![Distribución de ideología de candidatos](parc001.png){#fig:04013 width=95%}

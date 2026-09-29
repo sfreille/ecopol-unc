@@ -1,0 +1,89 @@
+---
+title: "Economía Política"
+subtitle: "Primer Examen Parcial — Tema A — CLAVE"
+author: "Licenciatura en Economía (FCE-UNC) — División Freille"
+format:
+  pdf:
+    fontsize: 11pt
+    geometry: legalpaper,margin=0.75in
+lang: es
+---
+
+# Puntaje
+
+Elección múltiple: 30; verdadero/falso: 10; ejercicios: 40; ensayo: 20. **Total: 100 puntos.**
+
+# I. Elección múltiple
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Respuesta | **d** | **c** | **c** | **d** | **d** | **b** | **c** | **d** | **b** | **b** |
+
+1. **d.** La economía política moderna conserva métodos formales y elección racional; no explica la política mediante un planificador benevolente.
+2. **c.** La información imperfecta impide transferencias *lump-sum* ideales y obliga a utilizar instrumentos distorsivos.
+3. **c.** May caracteriza mayoría binaria; Arrow demuestra la incompatibilidad general de condiciones deseables con tres o más alternativas.
+4. **d.** El total es $40(5+4+3+2+1)=600$. Los conocidos suman 458; $E=142$ y gana.
+5. **d.** $x\succ z\succ y\succ w$ cae desde $x$ hacia $y$ y vuelve a subir en $z$.
+6. **b.** Democratizar transfiere poder *de iure* persistente y vuelve creíble la redistribución futura.
+7. **c.** Puede haber democracia con desigualdad intermedia y represión con desigualdad alta.
+8. **d.** La suavidad corresponde al MVP; en Downs la probabilidad de victoria es discontinua.
+9. **b.** Los pesos son $0.20$, $0.35$ y $0.20$.
+10. **b.** Si el lobby no altera la cuota contractual, constituye gasto disipativo y genera incentivos a coordinar.
+
+# II. Verdadero o falso
+
+| Pregunta | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| Respuesta | **F** | **V** | **F** | **V** | **V** | **F** | **V** | **V** | **F** | **V** |
+
+1. Eficiencia de Pareto no implica equidad.  
+2. Borda puede violar independencia de alternativas irrelevantes.  
+3. Pico único y cruce único son restricciones distintas.  
+4. Con ciclos, el orden de votación puede determinar el ganador.  
+5. El poder *de facto* depende de movilización transitoria.  
+6. Mayor destrucción reduce el atractivo de revolucionarse.  
+7. Downs supone compromiso con la plataforma.  
+8. Mayor densidad de votantes *swing* aumenta el peso del grupo.  
+9. El financiamiento público no elimina necesariamente la influencia organizada.  
+10. Si la cuota no cambia, el lobby puede ser despilfarro.
+
+# III. Ejercicios
+
+## Ejercicio 1 [20 puntos]
+
+**a [2].** Pluralidad: $A=9$, $B=7$, $C=5$, $D=4$; gana **A**.
+
+**b [3].** Borda $(3,2,1,0)$: $A=40$, $B=43$, $C=38$, $D=29$; gana **B**.
+
+**c [4].** $A$ vence a $B$ 18–7 y a $C$ 13–12; $D$ vence a $A$ 16–9; $B$ vence a $C$ 20–5 y a $D$ 16–9; $C$ vence a $D$ 21–4. No existe ganador de Condorcet.
+
+**d [4].** Primera agenda: $A$ elimina a $B$ y $C$; $D$ vence a $A$; gana **D**. Segunda: $D$ vence a $A$, $C$ vence a $D$ y $B$ vence a $C$; gana **B**.
+
+**e [4].** Por ejemplo, $A\succ B\succ D\succ A$. La intransitividad permite que el orden de eliminación determine al finalista y al ganador.
+
+**f [3].** Falso: $B$ gana por Borda, pero pierde contra $A$ y tampoco gana por pluralidad.
+
+## Ejercicio 2 [20 puntos]
+
+**a [3].** $\mu^*=0.78-0.25(0.36)=0.69$; $\mu^{**}=0.78-0.36=0.42$.
+
+**b [4].** $\mu=.35$: revolución; $.50$: democratización; $.72$: concesión fiscal; $.80$: *statu quo*.
+
+**c [3].** Con $p=.75$, $\mu^*=0.78-.75(.36)=.51$. La ventana se contrae de $[.42,.69)$ a $[.42,.51)$.
+
+**d [4].** $.50\geq .78-.36p$, luego $p\geq .28/.36=.7778$.
+
+**e [3].** Revolución si $\mu<.42$; democratización si $.42\leq\mu<.69$; concesión si $.69\leq\mu<.78$; *statu quo* si $\mu\geq.78$.
+
+**f [3].** Mayor $p$ vuelve creíble una promesa sin reasignar autoridad; democracia transfiere poder *de iure*. Pueden coincidir hoy, pero difieren institucionalmente y en credibilidad futura.
+
+# IV. Ensayo [20 puntos]
+
+| Criterio | Puntos |
+|:--|--:|
+| Downs/MVT: motivación oportunista, mediano, convergencia y límites | 4 |
+| MVP: incertidumbre, $\alpha_j\phi_j$, votantes *swing* y convergencia | 4 |
+| Lobbies: organización, dinero y sesgo de políticas | 4 |
+| Comparación, aplicación a partidos/grupos diferenciados | 5 |
+| Argumento, claridad y limitaciones | 3 |
+

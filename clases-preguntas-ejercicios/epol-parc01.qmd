@@ -1,0 +1,210 @@
+---
+title: Economía Política
+subtitle: Primer Examen Parcial
+author: |
+  | Licenciatura en Economía (FCE-UNC) - Div: FREILLE
+  | Nombre y Apellido:___________________
+  | Fecha:___________________________
+format:
+  pdf:
+    fontsize: 12pt
+    geometry: legalpaper,margin=0.9in
+---
+
+# **Multiple Choice [24 pts]**
+
+| **1** 	| **2** 	| **3** 	| **4** 	| **5** 	| **6** 	|
+|-------	|-------	|-------	|-------	|-------	|-------	|
+|       	|       	|       	|       	|       	|       	|
+
+
+1. Una de las principales consecuencias de la heterogeneidad de
+   intereses inherente a los individuos de una sociedad es: a) la
+   política óptima implica ponderar las utilidades individuales de los
+   individuos; b) las políticas adoptadas en la práctica no son
+   óptimas; c) no se cumplen los resultados implícitos en el segundo
+   teorema del bienestar; d) en caso de existir una política óptima no
+   es cierto que se implemente; e) las alternativas (a) y (b) son
+   correctas; f) las alternativas (b) y (c) son correctas; g) las alternativas (b) y (d) son correctas; h) las alternativas (a) y (d) son correctas; i) todas son correctas
+
+2. Para que el resultado electoral sean politicas de equilibrio bien
+   definidas, deben restringirse 2 elementos de la teoria: a) las
+   preferencias de políticas colectivas; b) las
+   preferencias de    politica individuales; c) el criterio de
+   agregación de preferencias    colectivas; d) las instituciones
+   políticas a determinadas    instituciones; e) la función de
+   bienestar social del gobierno; f) ninguna es correcta. 
+   
+3. Una elección debe ser decidida en base al método de la cuenta de
+   Borda. Hay 5 (cinco) candidatas -A, B, C, D y E- y 45 (cuarenta y
+   cinco) votantes. Si el candidato A obtiene 147 puntos, el candidato
+   B obtiene 129 puntos, el candidato C obtiene 98 puntos, y el
+   candidato D obtiene 134 puntos, quién será el ganador de la
+   elección: a) opción A, b) opción B, c) opción C, d) opción D, e)
+   opción E, f) hay un empate entre A y E, g) no puede saberse con la
+   información suministrada; h) ninguna es correcta
+   
+   
+4. Sea $\sigma^{ij}=\sigma^{ij}(B)-\sigma^{ij}(A)$ la preferencia
+   ideológica relativa por B entonces la probabilidad de que $i$ del
+   grupo $j$ vote por A será igual a: a) 1 si
+   $V^{j}(\mathbf{q}_{A})-V^{j}(\mathbf{q}_{B}) \leq \sigma^{ij}$; b)
+   1 si $V^{j}(\mathbf{q}_{A})-V^{j}(\mathbf{q}_{B}) \leq
+   \sigma^{ij}$; c) a 1/2 si
+   $V^{j}(\mathbf{q}_{A})-V^{j}(\mathbf{q}_{B}) \geq \sigma^{ij}$; d) a 0 si
+   $V^{j}(\mathbf{q}_{A})-V^{j}(\mathbf{q}_{B}) \leq \sigma^{ij}$; e)
+   a 1 si $V^{j}(\mathbf{q}_{A})-V^{j}(\mathbf{q}_{B}) =
+   \sigma^{ij}$; f) ninguna es correcta.
+
+5. En el contexto de los modelos Downsianos de competencia electoral: a) una distribución normal (unimodal) de preferencias políticas la
+   identidad del partido importa; b) una distribución polarizada
+   (bimodal) de preferencias políticas tiende a producir convergencia
+   las  politicas; c) una distribución normal (unimodal) de
+   preferencias políticas otorga un mayor rol a la ideología; d) una
+   distribución multimodal de las preferencias políticas genera
+   fuertes oscilaciones entre dos extremos polarizantes; e) una distribución
+   polarizada (bimodal) de las de preferencias políticas hace que la
+   identidad del partido no importe; f) ninguna es
+   correcta
+
+6. Sean los siguientes ingresos de 5 (cinco) individuos iguales a 2,
+   5, 7, 8 y 16 y $\delta=0.4$ que representa el parametro del costo
+   de la imposición, en esta situación, la alícuota óptima que resulta
+   del modelo de imposición óptima con votante mediano es: a) 4%; b)
+   12\%; c) 15%; d) 20%; e) 30%; f) 14%; g) 16%  
+
+
+
+    
+# **Verdadero-Falso [20 pts]** - No requiere justificación
+
+| **1** 	| **2** 	| **3** 	| **4** 	| **5** 	| **6** 	| **7** 	| **8** 	| **9** 	| **10** 	|
+|-------	|-------	|-------	|-------	|-------	|-------	|-------	|-------	|-------	|--------	|
+|       	|       	|       	|       	|       	|       	|       	|       	|       	|        	|
+
+1. En una elección con 2 (dos) candidatos, las reglas de mayoría y
+   pluralidad significan exactamente lo mismo (son coincidentes) [V-F]
+2. Las condiciones deseadas de un sistema de reglas de votación entre
+   2 (dos) alternativas son *anonimidad*, *neutralidad* y *unicidad*
+   [V-F]
+3. Las promesas de mayor redistribución por parte de los ricos de la
+   élite son creíbles porque la amenaza de la revolución no es
+   transitoria, por lo que los ricos deberán cumplir con sus promesas
+   de revolución [V-F]
+4. En el modelo simple de democratización, si $\mu^{**} \leq \mu \leq
+   \mu^{*}$, si bien las promesas de concesión por parte de los ricos son
+   insuficientes, los pobres deciden no iniciar una revolución y los
+   ricos llevan a cabo una transición hacia la democracia, donde los
+   pobres elegirán la tasa de redistribución [V-F]
+5. En la aplicación de equilibrio con política con heterogeneidad
+   ex-post, si $\alpha=0.5$ no existirá conflicto de intereses
+   independientemente del valor de $\lambda$. [V-F] 
+6. El poder político *de iure* es mas permanente que el *de facto*
+   porque este último suele estar vinculado con problemas de acción
+   colectiva [V-F]
+7. Con más de 2 (dos) alternativas, agenda abierta y todos los
+   individuos con preferencias de pico único, la votación estratégica
+   por parte de un votante puede lograr que se cambie el resultado a
+   otro que no sea el ganador de Condorcet [V-F] 
+8. Si las preferencias son de cruce único, necesariamente serán de
+   pico único [V-F]
+9. La transición hacia la democracia en Reino Unido generó una caída
+   en la desiguldad dado el incremento en la calificación de los
+   trabajadores y un aumento en la redistribución del ingreso mediante
+   la política tributaria [V-F]
+10. El conjunto de punto preferidos de un individuo con respecto a una
+    alternativa "y" será mayor a medida que más cerca esté este de su
+    punto ideal [V-F]
+  
+   
+# **Ejercicios [26 pts]**
+
+
+**Ejercicio 1 (16 pts)** Suponga que Felix, Gerardo, Helena, e Ivan están compitiendo por el
+   puesto de Presidente de la Asociación de Actores de Argentina
+   (AAA). Los órdenes de preferencia de los 27 miembros de la AAA
+   están dados en la tabla siguiente. 
+
+| # votos 	| 12 	| 7 	| 5 	| 3    |
+|---------	|---	|---	|---	|---   |
+| 1er ord 	| F 	| G 	| H 	|I     |
+| 2do ord 	| G 	| H 	| I 	|H     |
+| 3er ord 	| H 	| I 	| F 	|G     |
+| 4to ord 	| I 	| F 	| G 	|F     |
+
+
+Se le pide: 
+  a) Cuál será el resultado de la elección bajo *regla de mayoría*
+  b) Cuál será el resultado de la elección bajo *regla de pluralidad*
+  c) Cuál será ahora el resultado de la elecicon si se vota *de a pares con regla de mayoría* y con la siguiente agenda
+  cerrada y secuencial: primera ronda, Gerardo versus Helena; segunda
+  ronda, Felix versus
+  (Ganador de Gerardo versus Helena); tercera ronda, Iván versus (Ganador de la
+  segunda ronda/ronda anterior)
+  d) Exprese el *orden de preferencia colectivo* que se deduce del
+  inciso anterior
+  e) ¿Es Ivan (I) un ganador de Condorcet? Explique por si o por no
+  f) ¿Qué alternativa ganará y cuántos puntos sumará si se usa la
+  *regla de Borda* (NOTA: Use criterio de "n-1")
+
+\vspace{25pt}
+
+**Ejercicio 2 (10 pts)** A partir de una encuesta realizada a
+estudiantes de economía de la UNC sobre las preferencias por
+pre-candidatos a Presidente, se obtuvieron los siguientes órdenes de
+preferencia [NOTA: Ordene a los candidatos de izquierda a derecha en
+este orden JG, SM, HRL, PB y JM]: 
+
+1. $PB \sim HRL \succ JM \succ SM \succ JG$
+2. $JM \succ PB \succ HRL \succ JG \succ SM$
+3. $HRL \succ JG \succ SM \succ JM \succ PB$
+4. $JM \succ PB \succ HRL \succ SM \succ JG$
+5. $JM \succ JG \succ PB \succ HRL \sim SM$
+6. $PB \succ HRL \succ JM \succ SM \succ JG$
+7. $PB \succ JM \succ HRL \succ SM \succ JG$
+8. $JM \succ SM \succ PB \succ HRL \succ JG$
+
+a) En base a estar información, seleccione, indique y grafique
+*sólamente los ranking de preferencias que presenten pico único*
+[Indiquelos en el gráfico con el número de cada uno]
+
+b) Trabaje solamente con aquellos órdenes de preferencia que tiene la
+propiedad de pico único; se le consulta si además cumplen con la
+propiedad de cruce único. Explique. 
+
+# **Ensayos [30 pts]**
+
+**Ensayo 1 (15 pts).** El siguiente diagrama ilustra las posiciones ideológicas
+(políticas) de multiples candidatos en dos países tanto para
+elecciones primarias (linea punteada) como generales (línea sólida) en
+un espacio unidimensional de políticas que varía entre -2 (extrema
+izquierda) y 2 (extrema derecha). NOTA: En el gráfico de la izquierda,
+la densidad a la derecha representa al partido republicano y la azul al
+partido demócrata. En el gráfico de la derecha, la densidad más a la
+derecha representa al partido de extrema derecha, la densidad al medio
+al partido partido de centro-derecha y la densidad más a la izquierda
+al partido de centro-izquierda. **Se le pide:** a) explique e
+interprete la posición, movimientos y lógicas de los movimientos usando
+elementos teóricos-analíticos desarrollados en el curso; b) ¿qué
+paralelo (si encuentra alguno) le parece existe con el actual proceso
+de elecciones en Argentina --PASO, General, y Segunda Vuelta?
+
+
+![Distribución de ideología de candidatos](parc001.png){#fig:04013 width=95%}
+
+\newpage 
+
+**Ensayo 2 (15 pts).** El siguiente mapa muestra el resultado del
+margen de victoria histórico entre el primer y el segundo
+candidato a legislador en diferentes "counties" de Freeland. Suponga
+que hay sólo 2 (dos) partidos y un sistema de mayoría ("winner takes
+all") por lo que para ganar un county, un partido debe obtener, al
+menos, la mitad más uno de los votos --i.e 51% versus 49%. **Se le
+pide:** interprete y explique en qué distritos tendrán incentivos los
+partidos a realizar campaña activa y asignar recursos para la
+competencia política; asimismo, se le pide que identifique los
+conceptos de distritos *swing* de distritos *core* y cómo se relaciona
+esto con los modelos de competencia electoral probabilística con dos
+dimensiones. 
+
+![Condados y resultados electorales (margen de victoria)](parc002.png){#fig:04013 width=95%}
